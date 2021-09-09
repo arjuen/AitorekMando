@@ -1,6 +1,6 @@
 /BEGIN Xbox One Controller Styling/
 .controller.xbox {
-    background: url(../img/mando_toon.png);
+    background: url(https://arjuen.github.io/AitorekMando/img/mando_toon.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(../img/mando_toon.png);
+    background: url(https://arjuen.github.io/AitorekMando/img/mando_toon.png);
 }
 
 .xbox.disconnected {
-    background: url(../img/mando_toon.png);
+    background: url(https://arjuen.github.io/AitorekMando/img/mando_toon.png);
 }
 
 .xbox.disconnected div {
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(../img/joy.png);
+    background: url(https://arjuen.github.io/AitorekMando/img/joy.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
